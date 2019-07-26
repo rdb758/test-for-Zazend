@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  overflow-x: hidden;
+height: 1000px;
+    
+}
+.logo{
+   font-size: 50px; 
+   float: left;
+}
+.header-center{
+    font-size: 50px;
+    text-decoration: none;
+    margin-left:1000px;
+   
+    
+}
+.header-center a{
+    font-size: 30px;
+    text-decoration: none;
+    padding: 25px 36px;
+    color: black;
+    
+}
+
+.wrap-header{
+    background:LightGrey;
+    height: 70px;
+    
+}
+
+.logo-image{
+    margin-top: 2px;
+    margin-left: 1px;
+    width:10%;
+}
